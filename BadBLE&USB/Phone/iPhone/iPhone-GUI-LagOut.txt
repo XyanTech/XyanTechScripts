@@ -1,4 +1,3 @@
-REM made by heckerrr
 DELAY 1000
 GUI SPACE
 GUI SPACE
