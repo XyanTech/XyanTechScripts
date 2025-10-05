@@ -1,3 +1,5 @@
+REM IMPORTANT: You have to be in a browser to open the website.
+REM You can change the website to any other website you want.
 GUI h
 DELAY 100
 GUI SPACE
