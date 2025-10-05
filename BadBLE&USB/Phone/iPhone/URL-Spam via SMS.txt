@@ -1,5 +1,3 @@
-REM Author: @unveroleone | https://github.com/veroleone
-REM Spams a crash-inducing URL via SMS
 DELAY 1000
 STRING Messages
 ENTER
