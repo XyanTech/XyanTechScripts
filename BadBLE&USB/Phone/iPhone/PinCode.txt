@@ -1,3 +1,4 @@
+REM IMPORTANT: Replace "123456 in the script with your actual PIN code.
 DELAY 1000
 STRING 123456
 DELAY 500
