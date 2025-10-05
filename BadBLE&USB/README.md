@@ -13,7 +13,7 @@ Scripts designed for Windows-based systems:
 3. **capslock.txt**  
    Script that toggles Caps Lock repeatedly to confuse the user.
 4. **Cybercrime WINDOWS.txt**  
-   🚨 *New script from Hecker:* Simulates advanced cybercrime activities on Windows systems.
+   Simulates advanced cybercrime activities on Windows systems.
 5. **Explorer-spam.txt**  
    Spams explorer tabs to crash Windows.
 6. **fake-update.txt**  
@@ -23,9 +23,9 @@ Scripts designed for Windows-based systems:
 8. **open\_website\_win.txt**  
    Opens a predefined website on a Windows machine.
 9. **PWN3D FAST.txt**  
-   🚨 *New script from Hecker:* Quickly compromises and demonstrates vulnerabilities on Windows systems.
+   Quickly compromises and demonstrates vulnerabilities on Windows systems.
 10. **pwn3d windows prank.txt**  
-    🚨 *New script from Hecker:* Executes pranks on Windows devices with disruptive actions.
+    Executes pranks on Windows devices with disruptive actions.
 11. **random-letters.txt**  
     Simulates endless random keypresses to flood text fields.
 12. **Tabs-spam.txt**  
